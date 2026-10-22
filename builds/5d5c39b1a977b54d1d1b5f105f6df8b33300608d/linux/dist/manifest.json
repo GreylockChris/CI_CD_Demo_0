@@ -1,0 +1,10 @@
+{
+  "repo": "GreylockChris/CI_CD_Demo_0",
+  "sha": "5d5c39b1a977b54d1d1b5f105f6df8b33300608d",
+  "ref": "refs/pull/2/merge",
+  "platform": "linux",
+  "arch": "x86_64",
+  "labview_version": "2026",
+  "built_at": "2026-10-22T11:43:12Z",
+  "specs": []
+}
