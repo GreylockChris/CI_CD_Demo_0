@@ -1,0 +1,21 @@
+{
+  "schema": 2,
+  "platform": "linux",
+  "version": "linux-4ce478ba9bb6",
+  "labview_version": "2026",
+  "base_image": "ghcr.io/elijah286/labview-ci-with-containers-labview:linux-2026",
+  "base_digest": "sha256:5f29fff95ef4c8bef793a0d571b7fb40e0c5a5e9807532a785c801acb0e75226",
+  "seed_image": "",
+  "seed_digest": "",
+  "worker_layer": "",
+  "copied_from_base": false,
+  "image_ref": "ghcr.io/greylockchris/ci_cd_demo_0-labview:linux-4ce478ba9bb6",
+  "build_date": "2026-10-22T11:27:31Z",
+  "git_sha": "f7dd631db8be70f192bc80eaeb1feb8a8030e1b2",
+  "run_url": "https://github.com/GreylockChris/CI_CD_Demo_0/actions/runs/39770690180",
+  "vipc": [],
+  "vipm_raw": "",
+  "vipm_packages": [],
+  "nipkg_raw": "",
+  "nipkg_packages": []
+}
