@@ -1,0 +1,36 @@
+{
+ "meta": {
+  "sha": "cf7a52d66d8fa150c8da9178b959d472cd6f31d2",
+  "short": "cf7a52d",
+  "platform": "windows",
+  "repo": "GreylockChris/CI_CD_Demo_0",
+  "pages_url": "https://GreylockChris.github.io/CI_CD_Demo_0",
+  "dash_url": "https://GreylockChris.github.io/CI_CD_Demo_0/",
+  "labview_version": "2026",
+  "commit": {
+   "message": "Merge pull request #2 from GreylockChris/CR_Feature_1",
+   "author": "Chris Roebuck",
+   "date": "2026-10-22T13:43:49+01:00"
+  },
+  "generated_utc": "2026-10-22 12:59 UTC",
+  "spdx_version": "CycloneDX 1.5",
+  "created": ""
+ },
+ "summary": {
+  "total_packages": 0
+ },
+ "platforms": [
+  {
+   "id": "windows",
+   "url": null
+  },
+  {
+   "id": "linux",
+   "url": "linux/results.json"
+  }
+ ],
+ "packages": [],
+ "tooling": {
+  "missing": []
+ }
+}
