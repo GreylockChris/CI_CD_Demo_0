@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "sha": "1e5f86c5e2af3de5bd9617b6f89a0dfce3d8c875",
+    "short": "1e5f86c",
+    "platform": "linux",
+    "repo": "GreylockChris/CI_CD_Demo_0",
+    "pages_url": "https://GreylockChris.github.io/CI_CD_Demo_0",
+    "pages_base": "../../..",
+    "commit": {
+      "message": "Merge c7f2fd674e27a0b0e0269ffdd81e2131e28c9c85 into cf7a52d66d8fa150c8da9178b959d472cd6f31d2",
+      "author": "Chris Roebuck",
+      "date": "2026-10-29T09:31:41Z"
+    },
+    "generated_utc": "2026-10-29 09:34 UTC",
+    "analysis_date": "Thursday, October 29, 2026 09:34:13 AM",
+    "duration": "00:00:46.02"
+  },
+  "summary": {
+    "vis_analyzed": 19,
+    "tests_run": 1976,
+    "passed": 1845,
+    "failed": 131,
+    "skipped": 0,
+    "findings": 7,
+    "vis_with_findings": 1
+  },
+  "errors": {
+    "vi_not_loadable": 0,
+    "test_not_loadable": 0,
+    "test_not_runnable": 0,
+    "test_error_out": 0
+  },
+  "rule_counts": [
+    {
+      "test": "Panel Size and Position",
+      "severity": "style",
+      "count": 2,
+      "vi_count": 1
+    },
+    {
+      "test": "Auto Error Handling Enabled",
+      "severity": "correctness",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Comment Usage",
+      "severity": "documentation",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Default Icon",
+      "severity": "style",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "Enabled Debugging",
+      "severity": "performance",
+      "count": 1,
+      "vi_count": 1
+    },
+    {
+      "test": "VI Documentation",
+      "severity": "documentation",
+      "count": 1,
+      "vi_count": 1
+    }
+  ]
+}
