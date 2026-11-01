@@ -1,7 +1,7 @@
 {
-  "version": "win-982773c5fc86",
+  "version": "win-7c17bb98e3c8",
   "platform": "windows",
-  "manifest_url": "https://greylockchris.github.io/CI_CD_Demo_0/workers/windows/win-982773c5fc86/manifest.html",
-  "build_date": "2026-10-22T11:27:46Z",
-  "git_sha": "adb15da5d868ad0eff1ba3170db9ac935344631a"
+  "manifest_url": "https://greylockchris.github.io/CI_CD_Demo_0/workers/windows/win-7c17bb98e3c8/manifest.html",
+  "build_date": "2026-11-01T12:03:25Z",
+  "git_sha": "cf7a52d66d8fa150c8da9178b959d472cd6f31d2"
 }
